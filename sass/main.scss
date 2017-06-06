@@ -1,0 +1,170 @@
+body {
+  font-family: "Lato", "Helvetica", "sans-serif";
+  margin: 0;
+  padding: 10px;
+  font-size: 3em;
+}
+
+.field {
+  margin: 0;
+}
+
+.field__textinput {
+  font-size: 1em;
+  padding: 15px 0;
+  text-align: center;
+  min-width: 500px;
+}
+
+
+
+/*
+  Section styles
+ */
+.card__prompt {
+  font-size: 1.1em;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.card__button {
+  font-size: 1.1em;
+  margin: 0;
+  text-align: center;
+}
+
+
+/*
+  Button styles
+ */
+
+.btn--orange {
+  border-color: #ff8a65;
+  color: white;
+  background-color: #ff8a65;
+}
+
+.btn--blue {
+  border-color: #0074D9;
+  color: white;
+  background-color: #0074D9;
+}
+
+.btn--yellow {
+  border-color: #E4BD00;
+  color: white;
+  background-color: #F3C500;
+}
+
+.btn--big {
+  font-size: 28px;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.btn--small {
+  min-width: 50px;
+}
+
+.btn__prompt {
+  background-color: white;
+  color: #fff;
+  padding-right: 12px;
+  padding-left: 12px;
+  margin-right: -10px;
+  font-weight: 600;
+  background-color: #333;
+  opacity: .4;
+  border-radius: 5px 0 0 5px;
+  left: 37px;
+  float: left;
+}
+
+.btn__text {
+  padding: 0 50px 0 20px;
+  border-radius: 0 5px 5px 0;
+}
+
+.raceDescription{
+    // margin-top: 2em;
+    margin: 0;
+}
+
+.raceDescription h3 {
+    text-align: center;
+}
+
+.radio-inline {
+  font-size: .75em;
+  color: #ff8a65;
+  margin-bottom: 5px;
+}
+
+.panel-title {
+  font-size: .75em;
+  text-align: center;
+}
+
+.panel-body {
+  font-size: .35em;
+}
+
+.race-choice {
+  font-size: .75em;
+  margin: 0;
+}
+
+.name-div {
+  text-align: center;
+  font-size: .66em;
+}
+
+.panel-para {
+  font-size: .5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+//Combat Styles
+
+#playerPic {
+  height: 5em;
+  display: none;
+}
+#monsterPic {
+  height: 5em;
+  display: none;
+}
+
+#combat-log{
+  max-height: 4em;
+  overflow: scroll;
+}
+h4{
+  margin: 0;
+  font-size: .5em;
+}
+h3 {
+  margin: 0;
+}
+h2 {
+  margin: 0;
+  font-size: .7em;
+}
+.row{
+  margin: 0;
+}
+.combat-text {
+  font-size: .4em;
+}
+
+.weap {
+  font-size: .75em;
+}
+
+.battlefield {
+  background-image: url("http://i.imgur.com/UZKEjzG.png");
+  background-size: 1230px 255px;
+  background-repeat: no-repeat;
+}
