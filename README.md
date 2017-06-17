@@ -4,7 +4,7 @@ A single page application that allows the user to build a fantasy character and 
 
 ## Deployed
 
-[Gauntlet Adventure Game](159.203.125.205)
+[Gauntlet Adventure Game](http://159.203.125.205)
 
 ## Getting Started
 
